@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hari_Nature</title>
+</head>
+<body>
+
+</body>
+</html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Title here</title>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hari_Nature</title>
+    </head>
+    <body>
+        <h1>Wild Nature</h1>
+        <h4>We move the world to protect wildlife</h4>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Image</title>
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42sELGwgUWApD-HdH96Keh39cuzML1zl9GQ&s" 
+    width="500px" height="300px">
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>wildlife</title>
+</head>
+<body>
+
+    <p>Wildlife plays a vital role in keeping ecosystems functioning.
+       Each species has a specific role in the intricate network of an ecosystem,
+       and losing even one species can disrupt the food chain and destabilize the ecosystem.
+
+    <p>Wildlife improves the health and fertility of soil by enriching it with nutrients from their dung and urine.
+
+    <p>Wildlife provides food, pollinators, pest control, and medicinal use.<br> 
+        It also supports tourism in many countries.
+    
+    <p>Wildlife is valuable for its own sake, and humans have a responsibility to protect it.
+
+    <p>In India, the Wild Life Protection Act of 1972 protects plants and animal species.<br>
+        The act prohibits poaching, hunting, harvesting, and killing animals in their natural habitat.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wildlife</title>
+</head>
+<body>
+    <h2>TIME TO STAND UP FOR WILDLIFE</h2>
+
+        <ul>
+            <li>Protect habitats</li>
+            <li>Establish sanctuaries</li>
+            <li>Combat deforestation</li>
+            <li>Recycle</li>
+            <li>Restrict hunting</li>
+        </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ordered List</title>
+</head>
+<body>
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+        </ol>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ordered List</title>
+</head>
+<body>
+<dl>
+    <dt>HTML</dt>
+    <dd>Hyper Text Markup Language</dd>
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+</dl>
+</body>
+</html>
+<table border="1">
+    <tr>
+        <th>key </th>
+        <th>description</th>
+    </tr>
+    <tr>
+        <td><b>Protect habitats</b> </td>
+        <td>Conserve natural habitats like wetlands and woods by preventing <br>development and
+             other human activities that can disturb the ecology. Reforestation and wetland restoration initiatives can help repair degraded habitats.</td>
+    </tr>
+    <tr>
+        <td><b>Establish sanctuaries</b> </td>
+        <td>Sanctuaries are places of refuge where injured, abandoned, and abused wildlife can live in peace. </td>
+    </tr>
+    <tr>
+        <td><b>Combat deforestation</b> </td>
+        <td>Deforestation and land use change are two of the most destructive activities that adversely affect wildlife habitats.</td>
+    </tr>
+    <tr>
+        <td><b>Recycle</b> </td>
+        <td>Recycling can help reduce your carbon footprint.</td>
+    </tr>
+    <tr>
+        <td><b>Restrict hunting</b> </td>
+        <td>Governments have implemented strict norms to restrict hunting and poaching of animals. </td>
+    </tr>
+</table><br><br>
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Text Formating</title>
+  </head>
+<body>
+     <b>Bold text</b> <br>
+     <strong>Important text</strong> <br>
+     <i>Italic text</i> <br>
+     <mark>Marked text</mark> <br>
+     <small>Smaller text</small> <br>
+     <del>Deleted text</del> <br>
+     <ins>Inserted text</ins> <br>
+     I'm <sub>subscript</sub> <br>
+     I'm <sup>superscript</sup> <br>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wildlife</title>
+    </head>
+    <body>
+        <a href="https://www.worldwildlife.org/initiatives/wildlife-conservation" target="_blank">Click 
+        here to know more</a><br><br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QvbvhZ9ssr8" title="youtube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </body>
+</html>
